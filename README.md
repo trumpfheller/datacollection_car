@@ -8,7 +8,7 @@ scraping data from
 using 
 - python
 - selenium
-- request and beautishop
+- request and beautifulsoup
 
 Result:
 - CAPTCHA prevented the data collection
