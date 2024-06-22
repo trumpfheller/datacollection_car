@@ -12,4 +12,4 @@ using
 
 Result:
 - CAPTCHA prevented the data collection
-- for craigslist, sinc eI focused on the title which was not standarized, I had to use regular expressions to create at least two useful columns
+- for craigslist, since I focused on the craigslist title which was not standarized, I had to use regular expressions to create at least two useful columns
